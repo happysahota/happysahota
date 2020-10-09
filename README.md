@@ -1,6 +1,6 @@
 ### Hi there 
 
-<h1 align="center">Hello World 👋, I am Harpreet Singh Sahota</h1>
+<h1 align="center">Hello World 👋,   I am Harpreet Singh Sahota</h1>
 <h3 align="center">Sr. Software Developer by profession</h3>
 
 <!--
@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🔭 I’m currently working on: Mobile Apps.
-<!-- - 🌱 I’m currently learning RxJs. -->
 - 🤔 I’m looking for help with learning Python... Any help much appriciated.
+- 💬 Ask me about: Javascript, Angular, ReactJs, AngularJs and amlost anything... 
 - ⚡ Fun fact: .................................................
 
 
