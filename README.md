@@ -1,5 +1,3 @@
-### Hi there 
-
 <h1 align="center">Hello World 👋,   I am Harpreet Singh Sahota</h1>
 <h3 align="center">Sr. Software Developer by profession</h3>
 
