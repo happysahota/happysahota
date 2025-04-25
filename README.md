@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://linkedin.com/in/harpreetssahota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harpreetssahota" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/harpreetsinghsahota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harpreetssahota" height="30" width="30" /></a>
 </p>
