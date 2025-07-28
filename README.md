@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Mobile Apps.
-- 🤔 I’m looking for help with learning Python... Any help much appriciated.
-- 💬 Ask me about: Javascript, Angular, ReactJs, AngularJs and amlost anything... 
+- 🔭 I’m currently working on: Classified.
+- 🤔 I’m learning New Things.
+- 💬 Ask me about: Javascript, Angular, Python
 - ⚡ Fun fact: .................................................
 
 
